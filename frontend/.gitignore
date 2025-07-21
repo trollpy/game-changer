@@ -1,0 +1,22 @@
+# Node
+node_modules/
+npm-debug.log*
+
+# Environment
+.env
+.env.local
+
+# Build
+dist/
+build/
+backend/public/
+
+# IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# MongoDB
+data/
