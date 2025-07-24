@@ -1,4 +1,3 @@
-
 # Agri-Link Platform
 
 A MERN stack platform connecting small-scale and large-scale farmers with buyers, markets, and each other.
